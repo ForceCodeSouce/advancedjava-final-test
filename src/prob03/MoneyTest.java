@@ -13,8 +13,7 @@ public class MoneyTest {
 			System.out.println("Money Class 구현을 완료 하였습니다.");
 		}
 
-		//확인코드
-		
+		//확인코드	
 		 /* System.out.println(five.equals(two.add(three)));
 		 * System.out.println(three.equals(five.minus(two)));
 		 * System.out.println(ten.equals(five.multiply(two)));

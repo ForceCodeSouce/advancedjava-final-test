@@ -28,6 +28,7 @@ public class User {
 
 	@Override
 	public int hashCode() {
+		//이게 뭐지???
 		final int prime = 31;
 		int result = 1;
 		result = prime * result + ((id == null) ? 0 : id.hashCode());
@@ -36,6 +37,7 @@ public class User {
 
 	@Override
 	public boolean equals(Object obj) {
+		//객체비교
 		if (this == obj)
 			return true;
 		if (obj == null)
